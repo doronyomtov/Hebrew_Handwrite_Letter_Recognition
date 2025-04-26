@@ -8,3 +8,9 @@ Regular CNN Accuarcy (0.82)
 
 
 Alexnet Accuarcy (0.74)
+
+
+
+Current Issues:
+-low accuarcy (probably due to small data set (about 200 images per letter)
+-segmenting letters from images (in hebrew there are letters that have 2 parts (ק,ה) and letter that is very small (י) making it hard to successfuly identify them and segmenting them 
